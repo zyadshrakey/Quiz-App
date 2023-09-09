@@ -1,2 +1,3 @@
 # Quiz-App
-quiz game (html &amp; css &amp; js ) deal with api 
+quiz game (HTML &amp; css and JS) deal with API
+random questions in different categories 
